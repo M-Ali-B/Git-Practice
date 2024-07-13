@@ -1,0 +1,14 @@
+name: ali # string
+age: 29 # int
+status: on  # bool
+weight: 88 # float 
+
+# primitive data types 
+
+numbers : [1,2,3,4]
+
+server:
+  port: 8080
+  hostname: example
+  database: local
+  status: 
